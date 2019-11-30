@@ -1,0 +1,21 @@
+//this code is for the purpose of testing arduino analog pinsvoid setup() {
+  // initialize digital pin LED_BUILTIN as an output.
+  pinMode(A0, INPUT);
+   pinMode(A1, INPUT);
+    pinMode(A2, INPUT);
+     pinMode(A3, INPUT);
+      pinMode(A4, INPUT);
+       
+  Serial.begin(9600);
+}
+
+// the loop function runs over and over again forever
+void loop() {
+Serial.println(analogRead(A0));
+  Serial.println(analogRead(A1));
+  Serial.println(analogRead(A2));
+  Serial.println(analogRead(A3));
+  Serial.println(analogRead(A4)); 
+  Serial.println();  
+  delay(2000);// wait for a second
+}
