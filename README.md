@@ -11,3 +11,29 @@ We decided to add in the theme of NARUTO to our project! All of us love the oran
 For the users to keep track of their activities, we have also introduced a calorie counter, which tells the number of calories you have burnt while playing the game. The calorie counter is prepared with the help of several studies that provide data (links to which have been provided below) on calories consumed while performing different exercises. We then followed a Gaussian distribution to find the total calories burnt with a minimal error of 5%.
 
 Link To our Proposal-https://docs.google.com/document/d/1lxDI-XCzWvwHC9Kfx46z8w6lG5eiQQtFO8rl3eGUtRU/edit#
+
+Source Credits
+
+https://www.google.com/search?q=naruto+team+7+run&tbm=isch&ved=2ahUKEwi54eyT4YzmAhUHgo8KHQiQD7sQ2-cCegQIABAC&oq=naruto+team+7+run&gs_l=mobile-gws-wiz-img.3..0i8i30.28232.28671..28958...0.0..0.297.997.2-4......0....1.........0i67j0j0i24.3rzDRRX-30M&ei=p6nfXfnxKoeEvgSIoL7YCw&bih=757&biw=412&client=ms-unknown&prmd=isvn#imgrc=Wbpb46r5mmszyM
+
+https://www.google.com/search?q=kakashi+and+guy+rock+paper+scissors&client=ms-unknown&prmd=ivsn&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjPma3R4YzmAhUFg-YKHZQjAOsQ_AUoAXoECAsQAQ&biw=412&bih=757&dpr=2.63#imgrc=fUf8U1wuFHPISM
+
+https://www.google.com/search?client=ms-unknown&tbm=isch&sa=1&q=sharingan+wallpaper&oq=sharingan+wallpaper&aqs=mobile-gws-lite..#imgrc=6Bu9QhphlbzbhM
+
+https://www.google.com/search?client=ms-unknown&bih=757&biw=412&tbm=isch&sa=1&q=naruto+konoha+village&oq=naruto+konoha+village&aqs=mobile-gws-lite..0l3#imgrc=jX0p3encdCA4XM%3A
+
+https://www.openprocessing.org/sketch/570191
+
+https://m.youtube.com/watch?v=rfQhaGRhIg8
+
+https://images.app.goo.gl/rp7P3WsbdUJHttsv7
+
+https://images.app.goo.gl/QPpUcjRNnCjxv5aA6
+
+https://images.app.goo.gl/xAFQbCvauSMaxSKx9
+
+https://images.app.goo.gl/QueHqjdM8URzgEjL9
+
+https://images.app.goo.gl/3BQkf6Z1ydKdHBBQ8
+
+https://www.youtube.com/watch?v=ZV0p9PutcRU
