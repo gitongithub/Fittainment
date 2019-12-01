@@ -9,3 +9,5 @@ If that is your reason as well, FITTAINMENT is your solution! Now, exercise whil
 We decided to add in the theme of NARUTO to our project! All of us love the orange jump-suit wearing ninja and Sasuke Uchiha, the wielder of Sharingan and Rinnegan. Their story motivates us to work hard and never give up, which is one of the underlying purposes of this project and the motivation which made us complete this project and learn!
 
 For the users to keep track of their activities, we have also introduced a calorie counter, which tells the number of calories you have burnt while playing the game. The calorie counter is prepared with the help of several studies that provide data (links to which have been provided below) on calories consumed while performing different exercises. We then followed a Gaussian distribution to find the total calories burnt with a minimal error of 5%.
+
+Link To our Proposal-https://docs.google.com/document/d/1lxDI-XCzWvwHC9Kfx46z8w6lG5eiQQtFO8rl3eGUtRU/edit#
